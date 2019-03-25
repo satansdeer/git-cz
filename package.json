@@ -44,7 +44,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/@satansdeer/dist/cz.js"
+      "path": "./dist/cz.js"
     }
   },
   "mmarkdown": {
